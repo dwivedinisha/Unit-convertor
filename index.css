@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    text-align: center;
+    align-self: center;
+}
+.container{
+    width: 550px;
+    height: 729px;
+    top: 126px;
+    left: 696px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    background: #1F2937;
+    align-self: center;
+
+}
+.upper{
+    width: 550px;
+    height: 285px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    background: #6943FF;
+    align-items: center;
+}
+.heading{
+    width: 448.3999938964844;
+    height: 38;
+    top: 33px;
+    left: 51px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 800;
+    font-style: Extra Bold;
+    font-size: 28px;
+    /* leading-trim: NONE; */
+    line-height: 38px;
+    letter-spacing: -3%;
+    text-align: center;
+    color: #FFFFFF;
+}
+input{
+    width: 117px;
+    height: 83px;
+    top: 101px;
+    left: 217px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    border-radius: 5px;
+    border-width: 2px;
+    font-family: Inter;
+    font-weight: 800;
+    font-style: Extra Bold;
+    font-size: 58px;
+    /* leading-trim: NONE; */
+    line-height: 24.39px;
+    letter-spacing: 0%;
+    text-align: center;
+    background: #6943FF;
+    color: white;
+    border: 2px solid #B295FF
+
+}
+
+button{
+    margin-top: 25px;
+    width: 117px;
+    height: 42px;
+    top: 209px;
+    left: 217px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+    border: 5px;
+    top: 9px;
+    left: 27.5px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    color: #3D3D3D;
+}
+
+.grid{
+    margin-top: 36px;
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 500px;
+    height: 108.57313537597656px;
+    top: 321px;
+    left: 25px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    border-top-left-radius: 4.68px;
+    background: #273549;
+ 
+}
+.content1{
+    padding-top: 31px;
+    padding-left: 77px;
+    padding-right: 77px;
+    width: 346px;
+    height: 25px;
+    top: 31px;
+    left: 77px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    /* leading-trim: NONE; */
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #CCC1FF;
+    
+
+
+}
+.content2{
+    width: 346;
+    height: 25;
+    top: 65px;
+    left: 77px;
+    /* angle: 0 deg; */
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    /* leading-trim: NONE; */
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 31px;
+    padding-left: 77px;
+    padding-right: 77px;
+
+
+}
+
